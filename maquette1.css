@@ -1,0 +1,64 @@
+body {
+  background-color: black;
+
+}
+
+*{
+  border: 0px solid;
+border-radius: 10px;
+}
+
+header {
+  text-align: center;
+	width: 99%;
+	margin-top: 16px;
+	height: 150px;
+	background-color: grey;
+
+}
+
+nav {
+  text-align: center;
+	width: 99%;
+	margin-top: 16px;
+	height: 100px;
+	background-color: grey;
+
+}
+
+section {
+  text-align: center;
+  width: 70%;
+  margin-top: 16px;
+  height: 550px;
+  background-color: grey;
+}
+
+article {
+  text-align: center;
+  width: 97%;
+  margin-left: 20px;
+  margin-top: 16px;
+  height: 240px;
+  background-color: white;
+}
+
+
+
+aside {
+  text-align: center;
+width: 28.3%;
+margin-left: 1300px;
+margin-top: -550px;
+height: 550px;
+background-color: grey;
+
+}
+
+footer {
+  text-align: center;
+	width: 99%;
+	margin-top: 16px;
+	height: 100px;
+	background-color: grey;
+}
